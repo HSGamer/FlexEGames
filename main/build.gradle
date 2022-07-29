@@ -4,7 +4,7 @@ plugins {
 }
 
 ext {
-    core = "4.1.1"
+    core = "4.1.12"
     minigameCore = "1.0.1"
     lombok = "1.18.24"
 }
